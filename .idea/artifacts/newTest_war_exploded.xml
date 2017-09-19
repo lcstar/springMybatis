@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="newTest" />
+          <element id="module-output" name="springMybatis" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
@@ -47,7 +47,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/springMybatis/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="newTest/web/Web" />
+      <element id="javaee-facet-resources" facet="springMybatis/web/Web" />
     </root>
   </artifact>
 </component>
